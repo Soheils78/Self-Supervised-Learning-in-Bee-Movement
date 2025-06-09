@@ -42,7 +42,7 @@ It’s a type of machine learning where the model learns patterns from the data 
 
 ---
 
-##  Steps Did in This project:
+##  Steps Done in This project:
 
 ### 1. Preprocessing
 - Split data into movement segments.
