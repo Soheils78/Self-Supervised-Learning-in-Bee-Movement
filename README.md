@@ -5,6 +5,10 @@
 This project uses machine learning to understand how bees move — without needing any labels.  
 We built a model that learns patterns from bee movement data and groups similar behaviors together.
 
+
+### What is self-supervised learning?
+It’s a type of machine learning where the model learns patterns from the data itself — without any labels or human instructions. It teaches itself using the structure of the data.
+
 ---
 
 ##  Files Overview
