@@ -85,3 +85,9 @@ After plotting samples from each cluster, we gave them simple names:
 - Shows how self-supervised learning can find real-world patterns with no labels.
 - Can be used in biology, animal tracking, or robotics.
 - Good example of combining deep learning + clustering + visualization.
+
+## Note about the data
+The original bee trajectory data (Excel files) is not included in this repository because of file size and privacy.
+
+
+
