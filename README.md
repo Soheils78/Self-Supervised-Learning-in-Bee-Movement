@@ -47,6 +47,7 @@ It’s a type of machine learning where the model learns patterns from the data 
 ### 1. Preprocessing
 - Split data into movement segments.
 - Removed unrealistic speeds (over 1000 pixels/sec).
+- Interpolated missing data to fix broken or uneven movement segments.
 - Calculated velocities and angular velocities.
 - Created clean, fixed-length samples (30 steps, 4 features each).
 - Saved them as `bee_samples.npy`.
